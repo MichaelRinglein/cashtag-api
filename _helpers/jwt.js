@@ -12,10 +12,9 @@ function jwt() {
             '/users/authenticate',
             '/users/register',
             '/users',
+            '/restaurants',
             '/countries',
-            '/auctions',
-            '/transactions'
-
+            '/auctions'
         ]
     });
 }
